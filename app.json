@@ -1,0 +1,12 @@
+{
+  "name": "cold-shower-app",
+  "displayName": "cold-shower-app",
+  "expo": {
+    "name": "cold-shower-app",
+    "slug": "cold-shower-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
